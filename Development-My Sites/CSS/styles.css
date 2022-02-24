@@ -1,0 +1,17 @@
+body {
+    background-color:#eeeeee;
+ }
+ hr{
+     background-color:black;
+     border-style:none;
+     height:2px;
+ }
+ h1{
+    color:#66BFBF;
+}
+h3{
+    color:#66BFBF;
+}
+img:hover{
+    background-color:black;
+}
